@@ -1,5 +1,6 @@
 # Digital System Lab       
 - SHEKHAR DIWAKAR, 3rd July 2022
+## In this experiment, We will display a 4-bit binary number in decimal on two seven-segment displays. We have to carefully limit the current on the display LEDs for safe functionality by using resistors.
 
 ### **Project – 1: dISPLAY 4 BIT NUMBER IN DECIMAL ON TWO SEVEN SEGMENT DISPLAY** 
 ![TOP view of project](https://user-images.githubusercontent.com/103775538/177053562-d2f3a3e2-282d-4b97-8d54-d097bc52e571.jpeg)
